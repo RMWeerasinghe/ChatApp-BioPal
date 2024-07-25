@@ -1,0 +1,6 @@
+[submodule "app_frontend"]
+	path = app_frontend
+	url = https://github.com/RMWeerasinghe/BioPal_Frontend.git
+[submodule "app_backend"]
+	path = app_backend
+	url = https://github.com/RMWeerasinghe/BioPal_Backend.git
